@@ -42,3 +42,5 @@ end
 
 # pry
 gem 'pry-rails'
+
+gem 'mechanize'
